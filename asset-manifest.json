@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ideal-disco/static/css/main.5b9b95c6.css",
+    "main.js": "/ideal-disco/static/js/main.2219fed2.js",
+    "index.html": "/ideal-disco/index.html",
+    "main.5b9b95c6.css.map": "/ideal-disco/static/css/main.5b9b95c6.css.map",
+    "main.2219fed2.js.map": "/ideal-disco/static/js/main.2219fed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b9b95c6.css",
+    "static/js/main.2219fed2.js"
+  ]
+}
